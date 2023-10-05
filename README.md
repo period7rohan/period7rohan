@@ -1,4 +1,4 @@
-
+![octocat-1696338165621](https://github.com/period7rohan/period7rohan/assets/146843515/3c0e7395-f4d0-4107-9a02-456b2fe74a6a)
 
 - 👋 Hi, I’m @period7rohan
 - 👀 I’m interested in soccer and coding.
