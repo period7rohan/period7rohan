@@ -6,7 +6,25 @@
 - 💞️ I’m looking to collaborate on more projects in the future
 - 📫 How to reach me poodarir26@wpsma.org
 
-<!---
-period7rohan/period7rohan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Code.org GameLab
+
+[Robot Face](https://period7rohan.github.io/robot/)
+> In this project I used shapes, variables, and randomness to express my creativity and created a Random Robot Face.
+
+[Captioned Scenes](https://studio.code.org/projects/gamelab/5HJdCcwWqubznDjfL2sW_QTucbbVAaodE7GE1OZk7Bo)
+> A creative project of this unit. Using the problem-solving process as a model.
+
+[Animation]
+>
+
+[Interactive Card]
+>
+
+[Side Scroller]
+>
+
+[Flyer Game]
+>
+
+[Project - Design a Game]
+>
