@@ -18,7 +18,7 @@
 >
 
 [Interactive Card](https://studio.code.org/projects/gamelab/VYWMN0GF4NNOfm3lfvyfFFs-Ujm9Pe7SKUgDQjH8BAw)
->
+> An interactive card that is done when you hold space
 
 [Side Scroller]
 >
