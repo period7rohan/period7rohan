@@ -20,8 +20,8 @@
 [Interactive Card](https://studio.code.org/projects/gamelab/VYWMN0GF4NNOfm3lfvyfFFs-Ujm9Pe7SKUgDQjH8BAw)
 > An interactive card that is done when you hold space
 
-[Side Scroller]
->
+[Side Scroller](https://studio.code.org/projects/gamelab/lgz4Mr22hYm56XgGN9evc-N2GFbfOPl8ULv9-rU9jSQ)
+>An interactive game that is done by pressing space
 
 [Flyer Game]
 >
