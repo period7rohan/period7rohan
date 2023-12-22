@@ -28,3 +28,9 @@
 
 [Project - Design a Game](https://studio.code.org/projects/gamelab/Mx35dAnsfc2-lpFgqllDbrBEAQCS3qg1RE6KvYUsq0Y)
 >Volleyball game that is infinite with no winner
+[hellositme](https://gallery.appinventor.mit.edu/?galleryid=e685cdb3-e60f-4b74-ba76-71c09cf9aafe)
+>Button game that describes farm animals
+>[piano](  https://gallery.appinventor.mit.edu/?galleryid=f57ab1cf-c80c-432b-871f-36ee41cf5a76)
+>Piano button game that allows one to play piano on their device
+>[music maker]( https://gallery.appinventor.mit.edu/?galleryid=72bc66b5-28e1-446c-8e80-a7a2834b203e)
+>Makes christmas music on a device
