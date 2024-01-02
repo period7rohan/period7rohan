@@ -37,3 +37,5 @@
 
 [Music Maker]( https://gallery.appinventor.mit.edu/?galleryid=72bc66b5-28e1-446c-8e80-a7a2834b203e)
 >Makes christmas music on a device
+
+[Find the Gold](  https://gallery.appinventor.mit.edu/?galleryid=2b657609-7fff-4dce-a5da-e538748fcaf3)
