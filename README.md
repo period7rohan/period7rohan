@@ -28,7 +28,7 @@
 
 [Project - Design a Game](https://studio.code.org/projects/gamelab/Mx35dAnsfc2-lpFgqllDbrBEAQCS3qg1RE6KvYUsq0Y)
 >Volleyball game that is infinite with no winner
-
+#### app inventor
 [Hellositme](https://gallery.appinventor.mit.edu/?galleryid=e685cdb3-e60f-4b74-ba76-71c09cf9aafe)
 >Button game that describes farm animals
 
@@ -41,5 +41,5 @@
 [Find the Gold](  https://gallery.appinventor.mit.edu/?galleryid=2b657609-7fff-4dce-a5da-e538748fcaf3)
 >Game designed to find the gold in a maze
 ### cmu python
-[DJing a party](https://academy.cs.cmu.edu/exercise/6402/)
+[DJing a party](https://academy.cs.cmu.edu/sharing/aliceBlueGoldfish4988)
 >Designed for someone to dj
