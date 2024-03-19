@@ -40,3 +40,6 @@
 
 [Find the Gold](  https://gallery.appinventor.mit.edu/?galleryid=2b657609-7fff-4dce-a5da-e538748fcaf3)
 >Game designed to find the gold in a maze
+### cmu python
+[DJing a party](https://academy.cs.cmu.edu/exercise/6402/)
+>Designed for someone to dj
