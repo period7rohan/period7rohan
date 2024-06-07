@@ -44,3 +44,11 @@
 [DJing a party](https://academy.cs.cmu.edu/sharing/aliceBlueGoldfish4988)
 >Designed for someone to dj
 
+[Unit 3 Creative Task](https://academy.cs.cmu.edu/exercise/4236/)
+>In this task My partner and I tried our best with the new "def" variable, and "onKeyPress" to be able to draw on the canvas!
+
+[Unit 4 Creative Task](https://academy.cs.cmu.edu/exercise/4282/)
+>Me and my partner tried our best to bring our poker obessions to code with the new conditional If-then-elif statements!
+
+[Unit 5 Creative Task](https://academy.cs.cmu.edu/exercise/4314/)
+> Me and my partner created a fun interacitve fishing game!
